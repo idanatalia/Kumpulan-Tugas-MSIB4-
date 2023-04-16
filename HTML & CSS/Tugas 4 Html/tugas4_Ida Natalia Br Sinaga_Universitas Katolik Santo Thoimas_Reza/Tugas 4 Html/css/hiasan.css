@@ -1,0 +1,43 @@
+p{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
+body{
+    background-image: url('../img/foto2.png');
+    background-size: cover;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(5, 196, 221);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color:rgb(3, 3, 2);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(165, 101, 5);
+  }
+  footer {
+text-align: center;
+padding: 3px;
+background-color: rgb(19, 99, 92);
+color: white;
+}
+font{
+    color: aliceblue;
+}
+h2{
+    color: beige;
+}
